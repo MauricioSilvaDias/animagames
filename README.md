@@ -1,2 +1,2 @@
 # animagames
-funy games
+Estudo de JavaScript para Mobile.
